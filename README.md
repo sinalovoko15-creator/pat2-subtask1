@@ -3,7 +3,7 @@ Morse code is a method of transmitting text information as a series of on-off to
 
 Morse code was widely used for long-distance communication before the invention of voice radio and is still used today in aviation, amateur radio, and emergency signaling.
 
-## 2. Historical Context of Why Morse Code Was Created
+# 2. Historical Context of Why Morse Code Was Created
 Morse code was developed in the early 1830s by **Samuel Morse** and **Alfred Vail** as part of the electric telegraph system. Before the telegraph, long-distance communication relied on messengers on horseback, which was slow and unreliable.
 
 The telegraph allowed messages to be sent instantly over long distances using electrical wires. However, there needed to be a standardized way to represent letters and numbers using electrical pulses. Morse code was created as that solution — a simple binary system using short and long signals that could be sent over a single wire. It was first used publicly in 1844 when Morse sent the message “WHAT HATH GOD WROUGHT” from Washington D.C. to Baltimore.
