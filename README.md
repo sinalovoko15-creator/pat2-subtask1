@@ -8,7 +8,7 @@ Morse code was developed in the early 1830s by **Samuel Morse** and **Alfred Vai
 
 The telegraph allowed messages to be sent instantly over long distances using electrical wires. However, there needed to be a standardized way to represent letters and numbers using electrical pulses. Morse code was created as that solution — a simple binary system using short and long signals that could be sent over a single wire. It was first used publicly in 1844 when Morse sent the message “WHAT HATH GOD WROUGHT” from Washington D.C. to Baltimore.
 
-## 3. How the Morse Code System Works
+# 3. How the Morse Code System Works
 Morse code works by assigning a unique combination of dots and dashes to each letter of the alphabet, number, and common punctuation mark.
 
 - **Dot (·)** = Short signal
