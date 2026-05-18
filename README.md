@@ -11,10 +11,10 @@ The telegraph allowed messages to be sent instantly over long distances using el
 # 3. How the Morse Code System Works
 Morse code works by assigning a unique combination of dots and dashes to each letter of the alphabet, number, and common punctuation mark.
 
-- **Dot (·)** = Short signal
-- **Dash (—)** = Long signal, approximately 3 times the length of a dot
-- **Space between letters** = Short pause
-- **Space between words** = Longer pause, about 7 times the length of a dot
+-  **Dot (·)** = Short signal
+-  **Dash (—)** = Long signal, approximately 3 times the length of a dot
+-  **Space between letters** = Short pause
+-  **Space between words** = Longer pause, about 7 times the length of a dot
 
 For example:
 - The letter **A** is `· —`
