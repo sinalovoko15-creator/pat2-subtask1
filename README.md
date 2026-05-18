@@ -16,7 +16,7 @@ Morse code works by assigning a unique combination of dots and dashes to each le
 -  **Space between letters** = Short pause
 -  **Space between words** = Longer pause, about 7 times the length of a dot
 
-For example:
+ For example:
 - The letter **A** is `· —`
 - The letter **B** is `— · · ·` 
 - The number **1** is `· —`
