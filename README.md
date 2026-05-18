@@ -1,4 +1,4 @@
-## 1. Brief Overview of Morse Code
+# 1. Brief Overview of Morse Code
 Morse code is a method of transmitting text information as a series of on-off tones, lights, or clicks that can be directly understood by a skilled listener or observer without special equipment. It uses two distinct signals called **dots (·)** and **dashes (—)** to represent letters, numbers, and punctuation. 
 
 Morse code was widely used for long-distance communication before the invention of voice radio and is still used today in aviation, amateur radio, and emergency signaling.
